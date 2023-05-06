@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "john",
+      "lastName": "doe",
+      "age": 25,
+      "street": "1234 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "email": "john.doe@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "firstName": "jane",
+      "lastName": "doe",
+      "age": 23,
+      "street": "1234 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "email": "johny.doee@example.com",
+      "password": "password1233"
+    }
+  ]
+}
